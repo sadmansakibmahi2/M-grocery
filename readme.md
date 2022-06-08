@@ -4,7 +4,7 @@
 A online grocery web side's  landing page.
 
 
- [preview](https://sadmansakibmahi2.github.io/M-grocery-/)
+ [preview](https://sadmansakibmahi2.github.io/M-grocery/)
 
 ## Author
 
