@@ -1,7 +1,7 @@
 
 # M Grocery 
 
-A online grocery web side's  landing page.
+An online grocery webside's  landing page.
 
 
  [preview](https://sadmansakibmahi2.github.io/M-grocery/)
